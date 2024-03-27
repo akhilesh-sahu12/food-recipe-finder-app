@@ -108,17 +108,24 @@ Feel free to explore and customize the app according to your requirements. If yo
 Happy coding!
 
 ## Screenshots
-![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20175639.png) ![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20175743.png)
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20175639.png) 
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20175743.png)
 
-![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20175819.png) ![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180920.png)
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20175819.png) 
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180920.png)
 
-![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20175958.png) ![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180327.png)
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20175958.png) 
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180327.png)
 
-![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180426.png) ![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180532.png)
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180426.png) 
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180532.png)
 
-![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180612.png) ![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180645.png)
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180612.png) 
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180645.png)
 
-![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180719.png) ![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180747.png)
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180719.png) 
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180747.png)
 
-![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180816.png) ![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180920.png)
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180816.png) 
+![App Screenshot](https://github.com/akhilesh-sahu12/food-recipe-finder-app/blob/master/screenshots/Screenshot%202024-03-27%20180920.png)
 
