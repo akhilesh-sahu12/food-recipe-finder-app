@@ -77,7 +77,6 @@ The project relies on several dependencies to enhance its functionality. Notable
 - **`react`**: Version 18.2.0. Core React library.
 - **`react-dom`**: Version 18.2.0. React DOM library.
 - **`react-native`**: Version 0.72.6. Core React Native library.
-- **`react-native-chart-kit`**: Version ^6.12.0. Library for creating various charts.
 - **`react-native-gesture-handler`**: Version ~2.12.0. Gesture handler library for React Native.
 - **`react-native-paper`**: Version ^4.12.6. Material Design components for React Native.
 - **`react-native-reanimated`**: Version ~3.3.0. React Native library for building smooth animations.
